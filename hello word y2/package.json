@@ -1,0 +1,19 @@
+
+{
+  "name": "hello-word-y2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Govind",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.4",
+    "nodemon": "^3.1.14"
+  }
+}
